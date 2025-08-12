@@ -1,0 +1,1 @@
+### In this repository, I use Python libraries such as Pandas to perform EDA (Exploratory Data Analysis) on raw Excel/CSV files in Jupyter Notebook, then export the cleaned datasets and load them into Power BI to create interactive dashboards and actionable insights.
