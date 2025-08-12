@@ -35,7 +35,7 @@ The project workflow includes:
 
 1. **Data Cleaning & Preprocessing**
 
-   Using Python (Pandas), we:
+   Using Python (Pandas), I:
 
    * Loaded and merged 9 CSV files.
    * Cleaned datasets (products, orders, payments, customers).
@@ -77,4 +77,5 @@ The project workflow includes:
 Completed as **Task 9** under the Elevvo Internship Program.
 
 ---
+
 
