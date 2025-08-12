@@ -34,29 +34,26 @@ The project workflow includes:
 ## 📈 **Project Steps:**
 
 1. **Data Cleaning & Preprocessing**
-
    Using Python (Pandas), I:
-
    * Loaded and merged 9 CSV files.
    * Cleaned datasets (products, orders, payments, customers).
    * Created unified sales dataset.
+     
 2. **Exploratory Data Analysis (EDA)**
-
    Conducted in Jupyter Notebook:
-
    * Monthly revenue trend
    * Top-selling product categories
    * Regional (state-wise) sales analysis
+     
 3. **Dashboard Development**
-
    * Built interactive dashboard in **Power BI** using processed CSVs.
    * Visuals include:
      * Monthly Revenue Trend (Line Chart)
      * Top Product Categories (Bar Chart)
      * Sales by State (Map/Bar Chart)
      * Month/Year Slicers for filtering
+       
 4. **Business Insights**
-
    * Identified best-selling regions and products.
    * Tracked revenue trends over time for strategic insights.
 
@@ -70,12 +67,8 @@ The project workflow includes:
 * 📄 CSV Files for Power BI (Cleaned Summary Data)
 * 📦 Raw Dataset ZIP (Original Data)
 
----
-
-## 📅 **Project Status:**
-
-Completed as **Task 9** under the Elevvo Internship Program.
 
 ---
+
 
 
