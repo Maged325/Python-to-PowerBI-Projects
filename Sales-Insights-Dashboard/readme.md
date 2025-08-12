@@ -3,10 +3,9 @@
 ---
 
 
-
 ## 📁 **Project Overview:**
 
-This project represents **Task 9** of the Elevvo Internship Program. The objective was to perform a full-cycle business analysis using the  **Brazilian E-Commerce Public Dataset (Olist)** .
+The objective was to perform a full-cycle business analysis using the  **Brazilian E-Commerce Public Dataset (Olist)** .
 
 The project workflow includes:
 
@@ -27,7 +26,7 @@ The project workflow includes:
 | `Olist_Ecommerce_Business_Insights.ipynb` | Jupyter Notebook with full data analysis          |
 | `Olist_Ecommerce_Business_Insights.html`  | HTML export of Jupyter Notebook (viewable report) |
 | `PowerBI_DataSources/`                    | Folder containing CSV data sources for Power BI   |
-| `Raw Datasets.zip`                        | Original ZIP file with 9 raw CSV datasets         |
+| `Raw_Datasets`                            | Original ZIP file with 9 raw CSV datasets         |
 | `README.md`                               | This project description file                     |
 
 ---
@@ -78,3 +77,4 @@ The project workflow includes:
 Completed as **Task 9** under the Elevvo Internship Program.
 
 ---
+
